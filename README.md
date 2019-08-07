@@ -20,7 +20,7 @@ KFold의 옵션 n_splits의 값을 3~10까지 바꾸면서 확인한 상위 3개
    NuSVC,
    QuadraticDiscriminantAnalysis
 # n_splits = 6
-1. LinearDiscriminantAnalysis 의 정답률=
+1. LinearDiscriminantAnalysis
 2. LabelSpreading,
    LinearDiscriminantAnalysis,
    LinearSVC,
